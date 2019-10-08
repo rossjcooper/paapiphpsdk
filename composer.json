@@ -1,5 +1,6 @@
 {
-    "name" : "amazon/paapiphpsdk",
+    "name" : "rossjcooper/paapiphpsdk",
+    "description": "PHP SDK that allows you to access the Amazon Product Advertising API 5.0 from your PHP app",
     "version" : "1.0.0",
     "keywords" : [
         "amazon",
