@@ -6,8 +6,10 @@
          convertWarningsToExceptions="true"
          stopOnFailure="false">
     <testsuites>
-        <testsuite>
+        <testsuite name="api">
             <directory>./test/Api</directory>
+        </testsuite>
+        <testsuite name="model">
             <directory>./test/Model</directory>
         </testsuite>
     </testsuites>
