@@ -1,5 +1,7 @@
 # Product Advertising API SDK for PHP (v1)
 
+[![Build Status](https://travis-ci.org/rossjcooper/Amazon-Product-Advertising-API-5.0-PHP-SDK.svg?branch=master)](https://travis-ci.org/rossjcooper/Amazon-Product-Advertising-API-5.0-PHP-SDK) [![Latest Stable Version](https://poser.pugx.org/rossjcooper/paapiphpsdk/v/stable)](https://packagist.org/packages/rossjcooper/paapiphpsdk) [![Total Downloads](https://poser.pugx.org/rossjcooper/paapiphpsdk/downloads)](https://packagist.org/packages/rossjcooper/paapiphpsdk)
+
 This repository contains the open source PHP SDK that allows you to access the [Product Advertising API](https://webservices.amazon.com/paapi5/documentation/index.html) from your PHP app.
 
 ## Installation
