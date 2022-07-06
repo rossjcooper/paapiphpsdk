@@ -1,7 +1,7 @@
 {
     "name" : "rossjcooper/paapiphpsdk",
     "description": "PHP SDK that allows you to access the Amazon Product Advertising API 5.0 from your PHP app",
-    "version" : "1.0.1",
+    "version" : "2.0.0",
     "keywords" : [
         "amazon",
         "php",
@@ -16,7 +16,7 @@
     ],
     "require" : {
         "php" : ">=7.1",
-        "guzzlehttp/guzzle" : "^6.2|^7.0"
+        "guzzlehttp/guzzle" : "^7.0"
     },
     "autoload": {
         "psr-4": { "Amazon\\ProductAdvertisingAPI\\v1\\" : "src/" }
